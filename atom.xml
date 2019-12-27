@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2019-12-16T14:01:16.138Z</updated>
+  <updated>2019-12-27T11:04:11.859Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux下更改shell的前缀</title>
+    <link href="http://zhulinmails.github.io/2019/12/28/linux%E4%B8%8B%E6%9B%B4%E6%94%B9shell%E7%9A%84%E5%89%8D%E7%BC%80/"/>
+    <id>http://zhulinmails.github.io/2019/12/28/linux%E4%B8%8B%E6%9B%B4%E6%94%B9shell%E7%9A%84%E5%89%8D%E7%BC%80/</id>
+    <published>2019-12-27T17:04:11.000Z</published>
+    <updated>2019-12-27T11:04:11.859Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>原因与结果的经济学读后总结</title>
@@ -39,21 +54,6 @@
     
     
       <category term="因果推断" scheme="http://zhulinmails.github.io/tags/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[object Object]</title>
-    <link href="http://zhulinmails.github.io/2019/12/16/post/"/>
-    <id>http://zhulinmails.github.io/2019/12/16/post/</id>
-    <published>2019-12-16T13:59:22.073Z</published>
-    <updated>2019-12-16T13:59:22.074Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
     
   </entry>
   
