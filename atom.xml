@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2019-12-27T11:04:11.859Z</updated>
+  <updated>2019-12-27T12:14:19.504Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A python file to move pictures into a today directory</title>
+    <link href="http://zhulinmails.github.io/2019/12/28/directory/"/>
+    <id>http://zhulinmails.github.io/2019/12/28/directory/</id>
+    <published>2019-12-27T18:08:27.000Z</published>
+    <updated>2019-12-27T12:14:19.504Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;I write a file to move pics into a today directory to help me clean the directory.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;Python&quot;&gt;# -- encoding:utf-8
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Python" scheme="http://zhulinmails.github.io/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://zhulinmails.github.io/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>linux下更改shell的前缀</title>

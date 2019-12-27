@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>自拍婚纱照的准备工作 | 我笔写我心(My pen writes my heart)</title>
-  <meta name="keywords" content=" 服装;造型;设备;地点;技巧 ">
-  <meta name="description" content="自拍婚纱照的准备工作 | 我笔写我心(My pen writes my heart)">
+  <title>A python file to move pictures into a today directory | 我笔写我心(My pen writes my heart)</title>
+  <meta name="keywords" content=" Python ">
+  <meta name="description" content="A python file to move pictures into a today directory | 我笔写我心(My pen writes my heart)">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="这是一个测试页面">
 <meta property="og:type" content="website">
@@ -424,30 +424,36 @@
 </aside>
 <div class="post">
     <div class="pjax">
-        <article id="post-自拍婚纱照的准备工作" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-directory" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">自拍婚纱照的准备工作</h1>
+        <h1 class="article-title">A python file to move pictures into a today directory</h1>
     
     <div class="article-meta">
         
         
         
+        <span class="book">
+            
+                <a  data-rel="Python">Python</a>
+            
+        </span>
+        
         
         <span class="tag">
             
-            <a class="color5">服装;造型;设备;地点;技巧</a>
+            <a class="color2">Python</a>
             
         </span>
         
     </div>
     <div class="article-meta">
         
-        创建时间:<time class="date" title='更新时间: 2017-10-22 22:37:01'>2017-10-22 22:34</time>
+        创建时间:<time class="date" title='更新时间: 2019-12-27 14:14:19'>2019-12-27 20:08</time>
         
     </div>
     <div class="article-meta">
         
-        <span>字数:448</span>
+        <span>字数:193</span>
         
         
         <span id="busuanzi_container_page_pv">
@@ -493,62 +499,43 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <ul>
-<li>服装、配饰准备<ul>
-<li>可租可买</li>
-</ul>
-</li>
-<li>化妆造型的准备<ul>
-<li>化妆自己来</li>
-<li>造型最好请造型师</li>
-</ul>
-</li>
-<li>拍照道具的准备<ul>
-<li>手捧花，小爱心，相框，气球，卡片一切你想用到的道具，都要事先准备好哦。</li>
-</ul>
-</li>
-<li>相机<ul>
-<li>相机，最好是单反。卡片机也可以</li>
-<li>三角架，用于两个人拍合照时固定相机用。如果是找朋友帮忙拍，可以不用</li>
-<li>反光板，这个可要可不要。</li>
-</ul>
-</li>
-<li>寻找好拍摄地点。<ul>
-<li>室外在哪里拍，拍多少个点，先后顺序是怎么样，这些也是要拍摄之前就先想好哦。</li>
-</ul>
-</li>
-<li>想好需要拍摄的情节动作。<ul>
-<li>拍摄前最好把自己每一套衣服相拍的动作，场景先分配好，是有别人的样照参考。</li>
-<li>可以按照已经规划好的情节动作一一拍出来。</li>
-</ul>
-</li>
-<li>自拍婚照的技巧<ul>
-<li>选择天气好，阳光充足的时候拍。</li>
-<li>最好是找有一定摄影基础的朋友帮忙。</li>
-<li>多找些自己喜欢的风格的样片看看，研究别人的拍摄角度，构图等。</li>
-<li>更多<ul>
-<li>如果想显腿长，请摄影师要从下往上仰拍</li>
-<li>如果是要人物特写，背景虚化，建议拍摄时摄影师走出一段距离，再利用镜头焦距拉近人像，并对焦人物。这样拍出来的照片会比较有质感。</li>
-<li>前景道具让画面更有层次感。适当在人物前面加些前景，如透过花花草草，或者窗户拍过去，这样的照片会比较有层次感。</li>
-</ul>
-</li>
-<li>优点<ul>
-<li>自由</li>
-<li>省钱</li>
-<li>特色</li>
-</ul>
-</li>
-<li>缺点<ul>
-<li>造型和服装</li>
-<li>器材不够专业</li>
-<li>技术不够专业</li>
-<li>欠人情</li>
-<li>后期修图靠自己</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+        <p>I write a file to move pics into a today directory to help me clean the directory.</p>
+<pre><code class="Python"># -- encoding:utf-8 --
+
+import os
+# this is os library to manipulate the file
+from datetime import date
+# this is get datetime from the date
+import shutil
+# this is a high-level operatons on file and files
+
+
+today=date.today()
+# get today date
+
+currentPath=os.path.abspath(&#39;.&#39;)
+# get the current absolute path
+
+if os.path.exists(os.path.join(currentPath,str(today))):
+    # if the file exist, do nothing, otherwise create a new one
+    # join is a common syntactic sugar to combine the paths
+    print(&quot;this file is existed&quot;)
+else:
+    os.mkdir(currentPath+&quot;\\&quot;+str(today))
+    # os to create a new directory
+
+for root,dirs,files in os.walk(currentPath):
+    # os walk the file tree
+    for fileName in files:
+        # traverse the files in the tree
+        if &#39;jpg&#39; in fileName or &#39;png&#39; in fileName or &#39;gif&#39; in fileName:
+            # get the pictures
+            src=currentPath+&quot;\\&quot;+fileName
+            dst=currentPath+&quot;\\&quot;+str(today)+&quot;\\&quot;+fileName
+            #print(src,dst)
+            #put them into the today directory
+            shutil.move(src,dst)
+</code></pre>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com </span>
@@ -562,12 +549,12 @@
 
 
 <div class="article_copyright">
-    <p><span class="copy-title">文章标题:</span>自拍婚纱照的准备工作</p>
-    <p><span class="copy-title">文章字数:</span><span class="post-count">448</span></p>
+    <p><span class="copy-title">文章标题:</span>A python file to move pictures into a today directory</p>
+    <p><span class="copy-title">文章字数:</span><span class="post-count">193</span></p>
     <p><span class="copy-title">本文作者:</span><a  title="ArronZL">ArronZL</a></p>
-    <p><span class="copy-title">发布时间:</span>2017-10-22, 22:34:26</p>
-    <p><span class="copy-title">最后更新:</span>2017-10-22, 22:37:01</p>
-    <span class="copy-title">原始链接:</span><a class="post-url" href="/2017/10/23/%E8%87%AA%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E7%9A%84%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/" title="自拍婚纱照的准备工作">http://zhulinmails.github.io/2017/10/23/%E8%87%AA%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E7%9A%84%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/</a>
+    <p><span class="copy-title">发布时间:</span>2019-12-27, 20:08:27</p>
+    <p><span class="copy-title">最后更新:</span>2019-12-27, 14:14:19</p>
+    <span class="copy-title">原始链接:</span><a class="post-url" href="/2019/12/28/directory/" title="A python file to move pictures into a today directory">http://zhulinmails.github.io/2019/12/28/directory/</a>
     <p>
         <span class="copy-title">版权声明:</span><i class="fa fa-creative-commons"></i> <a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="CC BY-NC-SA 4.0 International" target = "_blank">"署名-非商用-相同方式共享 4.0"</a> 转载请保留原文链接及作者。
     </p>
