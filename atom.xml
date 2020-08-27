@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-08-21T07:04:33.306Z</updated>
+  <updated>2020-08-27T15:52:56.476Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ISM方法</title>
+    <link href="http://zhulinmails.github.io/2020/08/28/ISM%E6%96%B9%E6%B3%95/"/>
+    <id>http://zhulinmails.github.io/2020/08/28/ISM%E6%96%B9%E6%B3%95/</id>
+    <published>2020-08-27T20:40:03.000Z</published>
+    <updated>2020-08-27T15:52:56.476Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近在学习ISM方法。ISM(Interpretive structural
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="ISM" scheme="http://zhulinmails.github.io/tags/ISM/"/>
+    
+  </entry>
   
   <entry>
     <title>论系统工程第三章</title>
