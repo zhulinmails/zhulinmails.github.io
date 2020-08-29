@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-08-27T15:52:56.476Z</updated>
+  <updated>2020-08-29T03:39:22.484Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>netcore网站建设</title>
+    <link href="http://zhulinmails.github.io/2020/08/29/netcore%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    <id>http://zhulinmails.github.io/2020/08/29/netcore%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/</id>
+    <published>2020-08-29T08:32:23.000Z</published>
+    <updated>2020-08-29T03:39:22.484Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近根据微软官方教材，学习了如何创建使用数据的 ASP.NET Core Web 应用。具体步骤如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/zhulinmails/git-images/raw/master//image1.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="微软" scheme="http://zhulinmails.github.io/categories/%E5%BE%AE%E8%BD%AF/"/>
+    
+    
+      <category term=".NET Core，网站" scheme="http://zhulinmails.github.io/tags/NET-Core%EF%BC%8C%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
   
   <entry>
     <title>ISM方法</title>
