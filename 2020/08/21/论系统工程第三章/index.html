@@ -6,15 +6,15 @@
   <meta name="keywords" content=" 读书笔记 ">
   <meta name="description" content="论系统工程第三章 | 我笔写我心(My pen writes my heart)">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="title: 每天一个 linux 命令date: 2017-01-23 11:41:48top: 1categories:  运维tags: linux 命令">
+<meta name="description" content="这是一个测试页面">
 <meta property="og:type" content="website">
-<meta property="og:title" content="[object Object]">
-<meta property="og:url" content="http:&#x2F;&#x2F;zhulinmails.github.io&#x2F;post.html">
+<meta property="og:title" content="about">
+<meta property="og:url" content="http:&#x2F;&#x2F;zhulinmails.github.io&#x2F;about&#x2F;index.html">
 <meta property="og:site_name" content="我笔写我心(My pen writes my heart)">
-<meta property="og:description" content="title: 每天一个 linux 命令date: 2017-01-23 11:41:48top: 1categories:  运维tags: linux 命令">
+<meta property="og:description" content="这是一个测试页面">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2020-08-30T04:49:49.229Z">
-<meta property="article:modified_time" content="2020-08-30T04:49:49.229Z">
+<meta property="article:published_time" content="2019-12-16T19:06:27.000Z">
+<meta property="article:modified_time" content="2019-12-16T13:49:49.446Z">
 <meta property="article:author" content="ArronZL">
 <meta name="twitter:card" content="summary">
 
@@ -25,21 +25,21 @@
 
 <link href="/css/hl_theme/atom-light.css?v=1.0.1" rel="stylesheet">
 
-<link href="//cdn.bootcss.com/animate.css/3.5.2/animate.min.css" rel="stylesheet">
+<link href="//cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" rel="stylesheet">
 
-<script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 <script src="/js/titleTip.js?v=1.0.1" ></script>
 
-<script src="//cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/highlightjs@9.16.2/highlight.pack.min.js"></script>
 <script>
     hljs.initHighlightingOnLoad();
 </script>
 
-<script src="//cdn.bootcss.com/nprogress/0.2.0/nprogress.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js"></script>
 
 
 
-<script src="//cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js" ></script>
+<script src="//cdn.jsdelivr.net/npm/jquery.cookie@1.4.1/jquery.cookie.min.js" ></script>
 
 <script src="/js/iconfont.js?v=1.0.1" ></script>
 
@@ -47,11 +47,11 @@
 </head>
 <div style="display: none">
   <input class="theme_disqus_on" value="false">
-  <input class="theme_preload_comment" value="false">
+  <input class="theme_preload_comment" value="">
   <input class="theme_blog_path" value="">
-  <input id="theme_shortcut" value="" />
+  <input id="theme_shortcut" value="true" />
   <input id="theme_highlight_on" value="true" />
-  <input id="theme_code_copy" value="" />
+  <input id="theme_code_copy" value="true" />
 </div>
 
 
@@ -595,7 +595,7 @@
     </div>
     <div class="copyright">
         <p class="footer-entry">
-    ©2016-2019 Yelog
+    ©2016-2020
 </p>
 <p class="footer-entry">Built with <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/yelog/hexo-theme-3-hexo" target="_blank">3-hexo</a> theme</p>
 
@@ -650,20 +650,6 @@
 
         /*高亮代码块行号*/
         
-        $('pre code').each(function(){
-            var lines = $(this).text().trim().split('\n').length, widther='';
-            if (lines>99) {
-                widther = 'widther'
-            }
-            var $numbering = $('<ul/>').addClass('pre-numbering ' + widther).attr("unselectable","on");
-            $(this).addClass('has-numbering ' + widther)
-                    .parent()
-                    .append($numbering);
-            for(var i=1;i<=lines;i++){
-                $numbering.append($('<li/>').text(i));
-            }
-        });
-        
 
         /*访问数量*/
         
@@ -688,38 +674,6 @@
 </script>
 
 <!--加入行号的高亮代码块样式-->
-
-<style>
-    pre{
-        position: relative;
-        margin-bottom: 24px;
-        border-radius: 10px;
-        border: 1px solid #e2dede;
-        background: #FFF;
-        overflow: hidden;
-    }
-    code.has-numbering{
-        margin-left: 30px;
-    }
-    code.has-numbering.widther{
-        margin-left: 35px;
-    }
-    .pre-numbering{
-        margin: 0;
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 20px;
-        padding: 0.5em 3px 0.7em 5px;
-        border-right: 1px solid #C3CCD0;
-        text-align: right;
-        color: #AAA;
-        background-color: #fafafa;
-    }
-    .pre-numbering.widther {
-        width: 35px;
-    }
-</style>
 
 <!--自定义样式设置-->
 <style>
@@ -787,24 +741,6 @@
 
     /*列表样式*/
     
-    #post .pjax article .article-entry>ol, #post .pjax article .article-entry>ul, #post .pjax article>ol, #post .pjax article>ul{
-        border: #e2dede solid 1px;
-        border-radius: 10px;
-        padding: 10px 32px 10px 56px;
-    }
-    #post .pjax article .article-entry li>ol, #post .pjax article .article-entry li>ul,#post .pjax article li>ol, #post .pjax article li>ul{
-        padding-top: 5px;
-        padding-bottom: 5px;
-    }
-    #post .pjax article .article-entry>ol>li, #post .pjax article .article-entry>ul>li,#post .pjax article>ol>li, #post .pjax article>ul>li{
-        margin-bottom: auto;
-        margin-left: auto;
-    }
-    #post .pjax article .article-entry li>ol>li, #post .pjax article .article-entry li>ul>li,#post .pjax article li>ol>li, #post .pjax article li>ul>li{
-        margin-bottom: auto;
-        margin-left: auto;
-    }
-    
 
     /* 背景图样式 */
     
@@ -815,25 +751,6 @@
     
 
     /*文章列表背景图*/
-    
-    .nav-right:before {
-        content: ' ';
-        display: block;
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        opacity: 0.3;
-        background: url("https://i.loli.net/2019/07/22/5d3521411f3f169375.png");
-        background-repeat: no-repeat;
-        background-position: 50% 0;
-        -ms-background-size: cover;
-        -o-background-size: cover;
-        -moz-background-size: cover;
-        -webkit-background-size: cover;
-        background-size: cover;
-    }
     
 
     
