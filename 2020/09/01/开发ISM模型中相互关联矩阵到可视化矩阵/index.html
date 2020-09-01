@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>C#图解学习要点 | 我笔写我心(My pen writes my heart)</title>
-  <meta name="keywords" content="">
-  <meta name="description" content="C#图解学习要点 | 我笔写我心(My pen writes my heart)">
+  <title>开发ISM模型中相互关联矩阵到可视化矩阵 | 我笔写我心(My pen writes my heart)</title>
+  <meta name="keywords" content=" ISM模型 , 技术难点 ">
+  <meta name="description" content="开发ISM模型中相互关联矩阵到可视化矩阵 | 我笔写我心(My pen writes my heart)">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="朱林，男，职业：教师。 研究方向：  知识流动网络 基于数据挖掘的知识发现">
 <meta property="og:type" content="website">
@@ -462,19 +462,36 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-C-图解学习要点" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-开发ISM模型中相互关联矩阵到可视化矩阵" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">C#图解学习要点</h1>
+        <h1 class="article-title">开发ISM模型中相互关联矩阵到可视化矩阵</h1>
     
     <div class="article-meta">
         
         
         
+        <span class="book">
+            <i class="iconfont icon-category"></i>
+            
+            
+            <a  data-rel="微软">微软</a>
+            
+        </span>
+        
+        
+        <span class="tag">
+            <i class="iconfont icon-tag"></i>
+            
+            <a class="color1">ISM模型</a>
+            
+            <a class="color5">技术难点</a>
+            
+        </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2020-08-20 06:29:33'>2020-08-19 17:00</time>
+            发布时间 : <time class="date" title='最后更新: 2020-09-01 09:51:03'>2020-09-01 14:50</time>
         
     </div>
     <div class="article-meta">
@@ -512,7 +529,14 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>测试</p>
+        <p>一直认为自己C#技术还可以。不过最近写了一个简单的Webform小页面，就花了我好几个小时时间。</p>
+<p>下面是一些查资料的过程：<br>第一个是split的使用，常用的也就是也就是\t\r\n的使用。这个地方需要是new string。这个总是记不住。</p>
+<pre><code>strInput.Split(new string[] { &quot;\r\n&quot; }, StringSplitOptions.None)</code></pre><p>第二个是二维数组的初始化方法。无需小括号。</p>
+<pre><code>int[,] strArr2 = new int[strList.Count, iCol];</code></pre><p>第三个是switch的使用。需要记住的是case后是条件，然后冒号，接着break。</p>
+<p>第四个是二维数组的长宽问题。rank是维度。</p>
+<pre><code>strArr2.GetLength(0) //行
+strArr2.GetLength(1) //列
+strArr2.Length //全部元素</code></pre><p>另外大道虽然是相通的，想轻易转化到另外一门语言其实还是很难的。</p>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com </span>

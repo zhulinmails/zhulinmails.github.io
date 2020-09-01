@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-08-29T03:39:22.484Z</updated>
+  <updated>2020-09-01T06:51:03.785Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开发ISM模型中相互关联矩阵到可视化矩阵</title>
+    <link href="http://zhulinmails.github.io/2020/09/01/%E5%BC%80%E5%8F%91ISM%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9B%B8%E4%BA%92%E5%85%B3%E8%81%94%E7%9F%A9%E9%98%B5%E5%88%B0%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9F%A9%E9%98%B5/"/>
+    <id>http://zhulinmails.github.io/2020/09/01/%E5%BC%80%E5%8F%91ISM%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9B%B8%E4%BA%92%E5%85%B3%E8%81%94%E7%9F%A9%E9%98%B5%E5%88%B0%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9F%A9%E9%98%B5/</id>
+    <published>2020-09-01T11:50:32.000Z</published>
+    <updated>2020-09-01T06:51:03.785Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一直认为自己C#技术还可以。不过最近写了一个简单的Webform小页面，就花了我好几个小时时间。&lt;/p&gt;
+&lt;p&gt;下面是一些查资料的过程：&lt;br&gt;第一个是split的使用，常用的也就是也就是\t\r\n的使用。这个地方需要是new
+        
+      
+    
+    </summary>
+    
+    
+      <category term="微软" scheme="http://zhulinmails.github.io/categories/%E5%BE%AE%E8%BD%AF/"/>
+    
+    
+      <category term="ISM模型" scheme="http://zhulinmails.github.io/tags/ISM%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="技术难点" scheme="http://zhulinmails.github.io/tags/%E6%8A%80%E6%9C%AF%E9%9A%BE%E7%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天我把公众号都删啦</title>
+    <link href="http://zhulinmails.github.io/2020/09/01/%E4%BB%8A%E5%A4%A9%E6%88%91%E6%8A%8A%E5%85%AC%E4%BC%97%E5%8F%B7%E9%83%BD%E5%88%A0%E5%95%A6/"/>
+    <id>http://zhulinmails.github.io/2020/09/01/%E4%BB%8A%E5%A4%A9%E6%88%91%E6%8A%8A%E5%85%AC%E4%BC%97%E5%8F%B7%E9%83%BD%E5%88%A0%E5%95%A6/</id>
+    <published>2020-08-31T17:42:07.000Z</published>
+    <updated>2020-08-31T12:58:53.989Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在这个社会，在资本的驱动下，无数的机构把文化盛宴放到了我们的面前，争取我们那本就不多的注意力。&lt;/p&gt;
+&lt;p&gt;碎片化的学习，前提是系统。没有系统的碎片化是没有任何价值的。充其量，得个眼缘。浪费时间和精力。&lt;/p&gt;
+&lt;p&gt;少就是多。&lt;/p&gt;
+&lt;p&gt;对于学习，我感觉重要的是在精
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="公众号" scheme="http://zhulinmails.github.io/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+      <category term="清净" scheme="http://zhulinmails.github.io/tags/%E6%B8%85%E5%87%80/"/>
+    
+  </entry>
   
   <entry>
     <title>netcore网站建设</title>
