@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-09-01T06:51:03.785Z</updated>
+  <updated>2020-09-02T16:19:16.097Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4条高效写作Github博客的Markdown高效解决思路</title>
+    <link href="http://zhulinmails.github.io/2020/09/03/4%E6%9D%A1%E9%AB%98%E6%95%88%E5%86%99%E4%BD%9CGithub%E5%8D%9A%E5%AE%A2%E7%9A%84Markdown%E9%AB%98%E6%95%88%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/"/>
+    <id>http://zhulinmails.github.io/2020/09/03/4%E6%9D%A1%E9%AB%98%E6%95%88%E5%86%99%E4%BD%9CGithub%E5%8D%9A%E5%AE%A2%E7%9A%84Markdown%E9%AB%98%E6%95%88%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/</id>
+    <published>2020-09-02T21:17:19.000Z</published>
+    <updated>2020-09-02T16:19:16.097Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;When I write my github blog, I met some obstacles. There is a summary for you. &lt;/p&gt;
+&lt;h2 id=&quot;Domain-Name&quot;&gt;&lt;a href=&quot;#Domain-Name&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="实践" scheme="http://zhulinmails.github.io/categories/%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+      <category term="域名" scheme="http://zhulinmails.github.io/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+      <category term="markdown" scheme="http://zhulinmails.github.io/tags/markdown/"/>
+    
+      <category term="github" scheme="http://zhulinmails.github.io/tags/github/"/>
+    
+      <category term="图片处理" scheme="http://zhulinmails.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+      <category term="Word" scheme="http://zhulinmails.github.io/tags/Word/"/>
+    
+  </entry>
   
   <entry>
     <title>开发ISM模型中相互关联矩阵到可视化矩阵</title>
@@ -551,31 +587,6 @@
     
     
       <category term="视频;录制;精选;工具" scheme="http://zhulinmails.github.io/tags/%E8%A7%86%E9%A2%91-%E5%BD%95%E5%88%B6-%E7%B2%BE%E9%80%89-%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>搭建github博客中碰到的问题</title>
-    <link href="http://zhulinmails.github.io/2017/10/04/%E6%90%AD%E5%BB%BAgithub%E5%8D%9A%E5%AE%A2%E4%B8%AD%E7%A2%B0%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-    <id>http://zhulinmails.github.io/2017/10/04/%E6%90%AD%E5%BB%BAgithub%E5%8D%9A%E5%AE%A2%E4%B8%AD%E7%A2%B0%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</id>
-    <published>2017-10-04T12:51:40.000Z</published>
-    <updated>2017-10-04T12:53:45.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;总觉的自己是一个很矫情的人。书没读多少，东西也没读多少，但是对于工具的要求确实很高。就想写博客，在国内的时候，用过和讯、163、搜狐、博客园等的博客。但是嫌这又嫌那，真是丫鬟的命，小姐的心，没得说。出了国门，发现这些博客网站访问起来不是很顺溜，又想到换别的。想起大牛们，记事
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="github; 博客; 问题" scheme="http://zhulinmails.github.io/tags/github-%E5%8D%9A%E5%AE%A2-%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   

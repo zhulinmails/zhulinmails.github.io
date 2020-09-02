@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>linux下更改shell的前缀 | 我笔写我心(My pen writes my heart)</title>
-  <meta name="keywords" content="">
-  <meta name="description" content="linux下更改shell的前缀 | 我笔写我心(My pen writes my heart)">
+  <title>4条高效写作Github博客的Markdown高效解决思路 | 我笔写我心(My pen writes my heart)</title>
+  <meta name="keywords" content=" 域名 , markdown , github , 图片处理 , Word ">
+  <meta name="description" content="4条高效写作Github博客的Markdown高效解决思路 | 我笔写我心(My pen writes my heart)">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="朱林，男，职业：教师。 研究方向：  知识流动网络 基于数据挖掘的知识发现">
 <meta property="og:type" content="website">
@@ -498,19 +498,42 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-linux下更改shell的前缀" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-4条高效写作Github博客的Markdown高效解决思路" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">linux下更改shell的前缀</h1>
+        <h1 class="article-title">4条高效写作Github博客的Markdown高效解决思路</h1>
     
     <div class="article-meta">
         
         
         
+        <span class="book">
+            <i class="iconfont icon-category"></i>
+            
+            
+            <a  data-rel="实践">实践</a>
+            
+        </span>
+        
+        
+        <span class="tag">
+            <i class="iconfont icon-tag"></i>
+            
+            <a class="color3">域名</a>
+            
+            <a class="color4">markdown</a>
+            
+            <a class="color2">github</a>
+            
+            <a class="color5">图片处理</a>
+            
+            <a class="color5">Word</a>
+            
+        </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2019-12-27 13:04:11'>2019-12-27 19:04</time>
+            发布时间 : <time class="date" title='最后更新: 2020-09-02 19:19:16'>2020-09-03 00:17</time>
         
     </div>
     <div class="article-meta">
@@ -532,7 +555,7 @@
     
     <div class="toc-ref">
     
-        
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Domain-Name"><span class="toc-text">Domain Name</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#The-picture-in-markdown"><span class="toc-text">The picture in markdown</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#The-word-file-into-markdown"><span class="toc-text">The word file into markdown</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#The-width-and-height-in-markdown-file"><span class="toc-text">The width and height in markdown file</span></a></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -548,7 +571,31 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <p>When I write my github blog, I met some obstacles. There is a summary for you. </p>
+<h2 id="Domain-Name"><a href="#Domain-Name" class="headerlink" title="Domain Name"></a>Domain Name</h2><p>I applied <a href="https://www.zhulin.ink" target="_blank" rel="noopener">a personal doman name</a>. When I updated my github website content, I met a serious problem. The setting for my domain name is lost。This means I have to reconfigure the website name after each update. It is a trouble for me. How do I solve it.</p>
+<p>I think Why the domain setting is lost, it is because my update files replace the setting. Thus, when I setting the webpage. The github should help me to make some configuature. I check it. </p>
+<p>It is the <strong>CNAME</strong> file, which help the github to locate the domain address.</p>
+<p>What is in the domain file?<br>Just your website. It is so simple. Just like below in the <strong>CNAME</strong> file in the  file</p>
+<pre><code>www.zhulin.ink</code></pre><p>Because I use <code>Hexo</code> to generate my website. For no trouble, I put the <strong>CNAME</strong> file in the public folder. Thus, when I deploy my website, the <strong>CNAME</strong> file can automatically be uploaded to the github.</p>
+<h2 id="The-picture-in-markdown"><a href="#The-picture-in-markdown" class="headerlink" title="The picture in markdown"></a>The picture in markdown</h2><p> Image hosting service is necessary to the markdown file. The when we write the markdown file, we need put the picture on online space in advance. It is a sad story.</p>
+<p> I live in China, the github website is not so stable in China. If it is just text words, it is stable. But for the picture, the user experience may be terrible. Thus, I consider the <a href="https://gitee.com/" target="_blank" rel="noopener">gitee</a> website, which is hosted by alibaba company. It is very fast in China.</p>
+<p> When we create the online picture libray on gitee. I advice you to do:</p>
+<ul>
+<li>select the choice to create the README file, which can help you to init the picture library</li>
+</ul>
+<p>Meanwhile, I also hope you to use the <code>Picgo</code> software to help you upload the picture into gitee. It provides the extention for the gitee, it is very pratical and productive. I recommand <code>Picgo</code> to you. You deserve to have it.</p>
+<h2 id="The-word-file-into-markdown"><a href="#The-word-file-into-markdown" class="headerlink" title="The word file into markdown"></a>The word file into markdown</h2><p>Thanks for the pandoc, which help to translate the word file to markdown. I always use this command to convert it.</p>
+<pre><code>pandoc *.docx -o netCore网站.md</code></pre><p>When pandoc help us complete this work. I found a serious problem, I lost all my picture. Where is my image files.</p>
+<p>I know the word docx file is a xml set. I can rename the file into zip and unzip the file. So I can get all the images. I found my picture. I am in a good mood. I am very happy, I think I can share with you.</p>
+<p>But I find there is a better alternative way for this.</p>
+<pre><code>pandoc *.docx -o netCore网站.md --extract-media=f</code></pre><p>When I add the <code>--extract-media=(folder path)</code>, I can automatically get all my files. It is very convenient.</p>
+<h3 id="The-width-and-height-in-markdown-file"><a href="#The-width-and-height-in-markdown-file" class="headerlink" title="The width and height in markdown file"></a>The width and height in markdown file</h3><p>When I solved the image problem for the markdown. I found another problem for this. There is redundant words (<em>height and width</em>) for the picture. It is rather ugly. I hope I remove it. I think I can use the regular expression to remove in vim editor. Anyway, it is a trouble work for me. I want to have a better way.</p>
+<p>It is :</p>
+<pre><code>pandoc *.docx -o netCore网站.md --extract-media=f -w gfm</code></pre><p>it can help us solve this, just like a magic.</p>
+<p>what is w, w means write. gfm means (GitHub-Flavored Markdown), or the deprecated and less accurate markdown_github.</p>
+<p>Okay, this is what I want to share with you. I hope you can have a high efficient blog.</p>
+<p>I am lin.</p>
+
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 jaytp@qq.com </span>
     </div>
