@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-09-05T09:17:19.457Z</updated>
+  <updated>2020-09-18T12:33:06.538Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Latex中隐藏显示部分内容</title>
+    <link href="http://zhulinmails.github.io/2020/09/18/Latex%E4%B8%AD%E9%9A%90%E8%97%8F%E6%98%BE%E7%A4%BA%E9%83%A8%E5%88%86%E5%86%85%E5%AE%B9/"/>
+    <id>http://zhulinmails.github.io/2020/09/18/Latex%E4%B8%AD%E9%9A%90%E8%97%8F%E6%98%BE%E7%A4%BA%E9%83%A8%E5%88%86%E5%86%85%E5%AE%B9/</id>
+    <published>2020-09-18T14:45:51.000Z</published>
+    <updated>2020-09-18T12:33:06.538Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;现在学生越来越追求主动学习，对于老师而言，最好每次都把课堂内容提前发给学生，这样学生也好主动学习。&lt;/p&gt;
+&lt;p&gt;在上每一堂课前，老师侃侃而谈，是因为他进行讲稿的准备。发给学生内容的时候，容易把自己做的笔记一起也发给学生了，于是想到是不是应该学生一个版本和老师一个版本呢？这
+        
+      
+    
+    </summary>
+    
+    
+      <category term="实践" scheme="http://zhulinmails.github.io/categories/%E5%AE%9E%E8%B7%B5/"/>
+    
+    
+      <category term="Latex" scheme="http://zhulinmails.github.io/tags/Latex/"/>
+    
+      <category term="读书" scheme="http://zhulinmails.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>KPI绩效考核</title>
@@ -560,37 +590,6 @@
     
     
       <category term="姿势;风格;特色;日韩" scheme="http://zhulinmails.github.io/tags/%E5%A7%BF%E5%8A%BF-%E9%A3%8E%E6%A0%BC-%E7%89%B9%E8%89%B2-%E6%97%A5%E9%9F%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>婚礼摄影师注意事项</title>
-    <link href="http://zhulinmails.github.io/2017/10/12/%E5%A9%9A%E7%A4%BC%E6%91%84%E5%BD%B1%E5%B8%88%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
-    <id>http://zhulinmails.github.io/2017/10/12/%E5%A9%9A%E7%A4%BC%E6%91%84%E5%BD%B1%E5%B8%88%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</id>
-    <published>2017-10-11T17:52:46.000Z</published>
-    <updated>2017-10-11T17:55:39.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;ul&gt;
-&lt;li&gt;心境&lt;ul&gt;
-&lt;li&gt;将感动记录到照片中的使命感&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;灵感&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.pinterest.com/&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="婚礼;注意事项;心境;灵感;装备；色温;修图" scheme="http://zhulinmails.github.io/tags/%E5%A9%9A%E7%A4%BC-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9-%E5%BF%83%E5%A2%83-%E7%81%B5%E6%84%9F-%E8%A3%85%E5%A4%87%EF%BC%9B%E8%89%B2%E6%B8%A9-%E4%BF%AE%E5%9B%BE/"/>
     
   </entry>
   
