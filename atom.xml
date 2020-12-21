@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-12-13T12:52:20.534Z</updated>
+  <updated>2020-12-21T04:11:58.849Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,157 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NSF&#39;s 10 Big Ideas</title>
+    <link href="http://zhulinmails.github.io/2020/12/21/10BigIdeas/"/>
+    <id>http://zhulinmails.github.io/2020/12/21/10BigIdeas/</id>
+    <published>2020-12-21T08:13:27.000Z</published>
+    <updated>2020-12-21T04:11:58.849Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;We should do the important research, we should walk in the right direction. We just have limited lifetime, we should make full use of it
+        
+      
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Idea" scheme="http://zhulinmails.github.io/tags/Idea/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Citespace能够做什么？</title>
+    <link href="http://zhulinmails.github.io/2020/12/20/Citespace%E7%AE%80%E4%BB%8B/"/>
+    <id>http://zhulinmails.github.io/2020/12/20/Citespace%E7%AE%80%E4%BB%8B/</id>
+    <published>2020-12-20T08:12:08.000Z</published>
+    <updated>2020-12-20T02:18:00.269Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Citespace" scheme="http://zhulinmails.github.io/tags/Citespace/"/>
+    
+      <category term="文献笔记" scheme="http://zhulinmails.github.io/tags/%E6%96%87%E7%8C%AE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快速阅读术</title>
+    <link href="http://zhulinmails.github.io/2020/12/20/%E5%BF%AB%E9%80%9F%E9%98%85%E8%AF%BB%E6%9C%AF/"/>
+    <id>http://zhulinmails.github.io/2020/12/20/%E5%BF%AB%E9%80%9F%E9%98%85%E8%AF%BB%E6%9C%AF/</id>
+    <published>2020-12-20T08:00:48.000Z</published>
+    <updated>2020-12-20T02:10:38.416Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;印南敦安的《快速阅读术》是一本非常实用的书籍。该书的作者每月为近60本书写书评，一年的阅读量超过700本，不折不扣的阅读达人。&lt;/p&gt;
+&lt;h1 id=&quot;阅读慢的原因&quot;&gt;&lt;a href=&quot;#阅读慢的原因&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="读书" scheme="http://zhulinmails.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="快速阅读" scheme="http://zhulinmails.github.io/tags/%E5%BF%AB%E9%80%9F%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Excel宏是什么</title>
+    <link href="http://zhulinmails.github.io/2020/12/15/Excel%E5%AE%8F%E6%98%AF%E4%BB%80%E4%B9%88/"/>
+    <id>http://zhulinmails.github.io/2020/12/15/Excel%E5%AE%8F%E6%98%AF%E4%BB%80%E4%B9%88/</id>
+    <published>2020-12-14T20:42:04.000Z</published>
+    <updated>2020-12-16T22:25:45.328Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Excel宏可保存在三种可能的位置：&lt;br&gt;1）当前工作簿。（只有该工作簿打开时，该宏才可用。）&lt;br&gt;2）新工作簿。&lt;br&gt;3）个人宏工作簿。&lt;/p&gt;
+&lt;p&gt;我在不知道这个设置的时候，我写的VBA代码都保存在一个单独的文本文件中，使用起来不是很方便。其中个人宏工作簿，是为
+        
+      
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Excel" scheme="http://zhulinmails.github.io/tags/Excel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ANP评价方法（The analytic network process evaluation method）</title>
+    <link href="http://zhulinmails.github.io/2020/12/14/ANP%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/"/>
+    <id>http://zhulinmails.github.io/2020/12/14/ANP%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/</id>
+    <published>2020-12-14T08:45:43.000Z</published>
+    <updated>2020-12-14T03:38:27.442Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;The ANP is a more general form of AHP.&lt;/p&gt;
+&lt;p&gt;In the AHP, each element in the hierarchy is considered to be independent of all the
+        
+      
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="评价方法" scheme="http://zhulinmails.github.io/tags/%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AHP评价方法</title>
+    <link href="http://zhulinmails.github.io/2020/12/14/AHP%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/"/>
+    <id>http://zhulinmails.github.io/2020/12/14/AHP%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/</id>
+    <published>2020-12-14T08:45:35.000Z</published>
+    <updated>2020-12-20T02:11:39.003Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>小平的伟大</title>
@@ -436,154 +587,6 @@
     
     
       <category term="读书笔记" scheme="http://zhulinmails.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>C#图解学习要点</title>
-    <link href="http://zhulinmails.github.io/2020/08/19/C-%E5%9B%BE%E8%A7%A3%E5%AD%A6%E4%B9%A0%E8%A6%81%E7%82%B9/"/>
-    <id>http://zhulinmails.github.io/2020/08/19/C-%E5%9B%BE%E8%A7%A3%E5%AD%A6%E4%B9%A0%E8%A6%81%E7%82%B9/</id>
-    <published>2020-08-19T14:00:59.000Z</published>
-    <updated>2020-08-20T03:29:33.284Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;测试&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>证明德摩根第一定律</title>
-    <link href="http://zhulinmails.github.io/2020/03/07/%E8%AF%81%E6%98%8E%E5%BE%B7%E6%91%A9%E6%A0%B9%E7%AC%AC%E4%B8%80%E5%AE%9A%E5%BE%8B/"/>
-    <id>http://zhulinmails.github.io/2020/03/07/%E8%AF%81%E6%98%8E%E5%BE%B7%E6%91%A9%E6%A0%B9%E7%AC%AC%E4%B8%80%E5%AE%9A%E5%BE%8B/</id>
-    <published>2020-03-07T08:14:34.000Z</published>
-    <updated>2020-08-20T03:32:21.048Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;数学是一切科学的基础，证明一直是我的弱项。&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
-    
-      <category term="数学" scheme="http://zhulinmails.github.io/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-      <category term="数学" scheme="http://zhulinmails.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>A python file to move pictures into a today directory</title>
-    <link href="http://zhulinmails.github.io/2019/12/28/directory/"/>
-    <id>http://zhulinmails.github.io/2019/12/28/directory/</id>
-    <published>2019-12-27T18:08:27.000Z</published>
-    <updated>2019-12-27T12:14:19.504Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;I write a file to move pics into a today directory to help me clean the directory.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;Python&quot;&gt;# -- encoding:utf-8
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Python" scheme="http://zhulinmails.github.io/categories/Python/"/>
-    
-    
-      <category term="Python" scheme="http://zhulinmails.github.io/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>linux下更改shell的前缀</title>
-    <link href="http://zhulinmails.github.io/2019/12/28/linux%E4%B8%8B%E6%9B%B4%E6%94%B9shell%E7%9A%84%E5%89%8D%E7%BC%80/"/>
-    <id>http://zhulinmails.github.io/2019/12/28/linux%E4%B8%8B%E6%9B%B4%E6%94%B9shell%E7%9A%84%E5%89%8D%E7%BC%80/</id>
-    <published>2019-12-27T17:04:11.000Z</published>
-    <updated>2019-12-27T11:04:11.859Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>原因与结果的经济学读后总结</title>
-    <link href="http://zhulinmails.github.io/2019/12/17/%E5%8E%9F%E5%9B%A0%E4%B8%8E%E7%BB%93%E6%9E%9C%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AF%BB%E5%90%8E%E6%80%BB%E7%BB%93/"/>
-    <id>http://zhulinmails.github.io/2019/12/17/%E5%8E%9F%E5%9B%A0%E4%B8%8E%E7%BB%93%E6%9E%9C%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AF%BB%E5%90%8E%E6%80%BB%E7%BB%93/</id>
-    <published>2019-12-16T18:22:13.000Z</published>
-    <updated>2019-12-16T14:01:16.138Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;@[TOC]&lt;br&gt;列出大纲&lt;br&gt;每一部分都要相处一个案例&lt;/p&gt;
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="因果推断" scheme="http://zhulinmails.github.io/tags/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摄影师必备几个摄影小秘诀</title>
-    <link href="http://zhulinmails.github.io/2017/11/30/%E6%91%84%E5%BD%B1%E5%B8%88%E5%BF%85%E5%A4%87%E5%87%A0%E4%B8%AA%E6%91%84%E5%BD%B1%E5%B0%8F%E7%A7%98%E8%AF%80/"/>
-    <id>http://zhulinmails.github.io/2017/11/30/%E6%91%84%E5%BD%B1%E5%B8%88%E5%BF%85%E5%A4%87%E5%87%A0%E4%B8%AA%E6%91%84%E5%BD%B1%E5%B0%8F%E7%A7%98%E8%AF%80/</id>
-    <published>2017-11-29T20:11:16.000Z</published>
-    <updated>2017-11-29T20:14:07.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;随环境改变ISO值&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;光圈、快门和感光度ISO,三者关系密不可分，经常关心快门和光圈值，而忽略了ISO &lt;/li&gt;
-&lt;li&gt;光圈快门不变，ISO值低，整个相片就比较暗，反之比较亮 &lt;/li&gt;
-&lt;li&gt;日间晴天，ISO要调的非常低，如100,200
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
