@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.github.io/"/>
-  <updated>2020-12-21T04:11:58.849Z</updated>
+  <updated>2020-12-23T03:17:52.988Z</updated>
   <id>http://zhulinmails.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>统计学中几个平均数</title>
+    <link href="http://zhulinmails.github.io/2020/12/23/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%AD%E5%87%A0%E4%B8%AA%E5%B9%B3%E5%9D%87%E6%95%B0/"/>
+    <id>http://zhulinmails.github.io/2020/12/23/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%AD%E5%87%A0%E4%B8%AA%E5%B9%B3%E5%9D%87%E6%95%B0/</id>
+    <published>2020-12-23T08:31:48.000Z</published>
+    <updated>2020-12-23T03:17:52.988Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;统计学中有几个平均数或均值，经常用，但是经常忘。Maybe I am a fish, just have 2 seconds
+        
+      
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="统计学" scheme="http://zhulinmails.github.io/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6/"/>
+    
+      <category term="平均数" scheme="http://zhulinmails.github.io/tags/%E5%B9%B3%E5%9D%87%E6%95%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>NSF&#39;s 10 Big Ideas</title>
@@ -48,9 +77,18 @@
     <link href="http://zhulinmails.github.io/2020/12/20/Citespace%E7%AE%80%E4%BB%8B/"/>
     <id>http://zhulinmails.github.io/2020/12/20/Citespace%E7%AE%80%E4%BB%8B/</id>
     <published>2020-12-20T08:12:08.000Z</published>
-    <updated>2020-12-20T02:18:00.269Z</updated>
+    <updated>2020-12-22T11:58:47.822Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;CiteSpace is a very popular scientometrics software. What functions does it have?&lt;/p&gt;
+&lt;p&gt;The idea is that the focus of scientific
+        
+      
     
     </summary>
     
@@ -99,7 +137,7 @@
     <link href="http://zhulinmails.github.io/2020/12/15/Excel%E5%AE%8F%E6%98%AF%E4%BB%80%E4%B9%88/"/>
     <id>http://zhulinmails.github.io/2020/12/15/Excel%E5%AE%8F%E6%98%AF%E4%BB%80%E4%B9%88/</id>
     <published>2020-12-14T20:42:04.000Z</published>
-    <updated>2020-12-16T22:25:45.328Z</updated>
+    <updated>2020-12-23T02:10:27.450Z</updated>
     
     <summary type="html">
     
@@ -155,15 +193,34 @@
     <link href="http://zhulinmails.github.io/2020/12/14/AHP%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/"/>
     <id>http://zhulinmails.github.io/2020/12/14/AHP%E8%AF%84%E4%BB%B7%E6%96%B9%E6%B3%95/</id>
     <published>2020-12-14T08:45:35.000Z</published>
-    <updated>2020-12-20T02:11:39.003Z</updated>
+    <updated>2020-12-23T01:23:35.345Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;层次分析法是一个为指标体系赋权的方法。&lt;/p&gt;
+&lt;p&gt;层次分析法应用的几个关键点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;调查问卷的设计问题，两两比较，其实是比较麻烦的&lt;/li&gt;
+&lt;li&gt;指标数量的问题，适量最好&lt;/li&gt;
+&lt;li&gt;多个专家的权重处理问题&lt;/li&gt;
+&lt;/ul&gt;
+
+        
+      
     
     </summary>
     
     
       <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
+    
+      <category term="层次分析法" scheme="http://zhulinmails.github.io/tags/%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%B3%95/"/>
+    
+      <category term="AHP" scheme="http://zhulinmails.github.io/tags/AHP/"/>
     
   </entry>
   
@@ -556,37 +613,6 @@
     
     
       <category term="ISM" scheme="http://zhulinmails.github.io/tags/ISM/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>论系统工程第三章</title>
-    <link href="http://zhulinmails.github.io/2020/08/21/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
-    <id>http://zhulinmails.github.io/2020/08/21/%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
-    <published>2020-08-21T11:49:54.000Z</published>
-    <updated>2020-08-21T07:04:33.306Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;ul&gt;
-&lt;li&gt;现代科学成果特制运筹学和电子计算机的发展。&lt;/li&gt;
-&lt;li&gt;技术的进步可以用于军事，马上就会引起作者方式的改变甚至改革。&lt;/li&gt;
-&lt;li&gt;战戏沙盘、参谋部组织和军事学院是普鲁士军队成果的三个因素。&lt;/li&gt;
-&lt;li&gt;计算机可以用于战术模拟，其中关键的就是是蒙
-        
-      
-    
-    </summary>
-    
-    
-      <category term="读书笔记" scheme="http://zhulinmails.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="读书笔记" scheme="http://zhulinmails.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
