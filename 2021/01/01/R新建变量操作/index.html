@@ -6,15 +6,15 @@
   <meta name="keywords" content=" R语言 , 基础操作 ">
   <meta name="description" content="R新建变量操作 | 我笔写我心(My pen writes my heart)">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="title: 每天一个 linux 命令date: 2017-01-23 11:41:48top: 1categories:  运维tags: linux 命令">
+<meta name="description" content="朱林男西南石油大学 研究方向：  知识流动网络 基于数据挖掘的知识发现  授课课程：  管理信息系统 工程识图 工程经济学 项目管理 项目投融资  联系方式：  zhulinmails@163.com">
 <meta property="og:type" content="website">
-<meta property="og:title" content="[object Object]">
-<meta property="og:url" content="http:&#x2F;&#x2F;zhulinmails.gitee.io&#x2F;post.html">
+<meta property="og:title" content="作者简介">
+<meta property="og:url" content="http:&#x2F;&#x2F;zhulinmails.gitee.io&#x2F;about&#x2F;index.html">
 <meta property="og:site_name" content="我笔写我心(My pen writes my heart)">
-<meta property="og:description" content="title: 每天一个 linux 命令date: 2017-01-23 11:41:48top: 1categories:  运维tags: linux 命令">
+<meta property="og:description" content="朱林男西南石油大学 研究方向：  知识流动网络 基于数据挖掘的知识发现  授课课程：  管理信息系统 工程识图 工程经济学 项目管理 项目投融资  联系方式：  zhulinmails@163.com">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2020-08-30T04:49:49.229Z">
-<meta property="article:modified_time" content="2020-08-30T04:49:49.229Z">
+<meta property="article:published_time" content="2020-08-30T18:54:02.000Z">
+<meta property="article:modified_time" content="2020-10-14T14:42:29.144Z">
 <meta property="article:author" content="ArronZL">
 <meta name="twitter:card" content="summary">
 
@@ -795,7 +795,7 @@
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-01-01 22:42:04'>2021-01-01 22:02</time>
+            发布时间 : <time class="date" title='最后更新: 2021-01-01 22:42:59'>2021-01-01 22:02</time>
         
     </div>
     <div class="article-meta">
@@ -833,7 +833,7 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>基于Tidyverse包的操作<br>新建变量加上原来的，mutate<br>筛选变量，select<br>新建变量不加上原来的，transmute<br>%/% integer division，整除<br> %%remainder，取余<br>log是一种非常有用的运算，不同量级可以进行转换，可以把乘法变加法，其中最好用的log2<br>offset是移动数据的方式，分为前移和后移，分别是lead和lag<br>四种累计运算：cumsum，summean，cumprod，cummin，cummax<br>排序，最常用的是min_rank,row_number(), dense_rank(), percent_rank(),  cume_dist(), ntile()<br>点评：<br>tidyverse确实是数据科学的神器，一些操作非常方便。如果使用传统的方式，则要相对累赘一些，但是不管如何，两者都可以实现相同的目的。</p>
+        <p>基于Tidyverse包的操作<br>新建变量加上原来的，mutate<br>筛选变量，select<br>新建变量不加上原来的，transmute<br>%/% integer division，整除<br> %‘%remainder，取余<br>log是一种非常有用的运算，不同量级可以进行转换，可以把乘法变加法，其中最好用的log2<br>offset是移动数据的方式，分为前移和后移，分别是lead和lag<br>四种累计运算：cumsum，summean，cumprod，cummin，cummax<br>排序，最常用的是min_rank,row_number(), dense_rank(), percent_rank(),  cume_dist(), ntile()<br>点评：<br>tidyverse确实是数据科学的神器，一些操作非常方便。如果使用传统的方式，则要相对累赘一些，但是不管如何，两者都可以实现相同的目的。</p>
 <pre><code class="R">#传统
 iris5&lt;-iris[iris$Sepal.Length&gt;5,c(&quot;Petal.Width&quot;,&quot;Species&quot;)]#筛选Iris的花萼长度大于5的，且列为Petal.Width和Species。
 
