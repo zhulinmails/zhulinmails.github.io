@@ -795,7 +795,7 @@
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2021-01-01 22:39:04'>2021-01-01 22:02</time>
+            发布时间 : <time class="date" title='最后更新: 2021-01-01 22:40:57'>2021-01-01 22:02</time>
         
     </div>
     <div class="article-meta">
@@ -833,7 +833,7 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>基于Tidyverse包的操作<br>新建变量加上原来的，mutate<br>筛选变量，select<br>新建变量不加上原来的，transmute<br>%/% integer division，整除<br> %%remainder，取余<br>log是一种非常有用的运算，不同量级可以进行转换，可以把乘法变加法，其中最好用的log2<br>offset是移动数据的方式，分为前移和后移，分别是lead和lag<br>四种累计运算：cumsum，summean，cumprod，cummin，cummax<br>排序，最常用的是min_rank,row_number(), dense_rank(), percent_rank(),  cume_dist(), ntile()<br>点评：<br>tidyverse确实是数据科学的神器，一些操作非常方便。如果使用传统的方式，则要相对累赘一些，但是不管如何，两者都可以实现相同的目的。</p>
+        <p>基于Tidyverse包的操作<br>新建变量加上原来的，mutate<br>筛选变量，select<br>新建变量不加上原来的，transmute<br>%/% integer division，整除<br> % %remainder，取余<br>log是一种非常有用的运算，不同量级可以进行转换，可以把乘法变加法，其中最好用的log2<br>offset是移动数据的方式，分为前移和后移，分别是lead和lag<br>四种累计运算：cumsum，summean，cumprod，cummin，cummax<br>排序，最常用的是min_rank,row_number(), dense_rank(), percent_rank(),  cume_dist(), ntile()<br>点评：<br>tidyverse确实是数据科学的神器，一些操作非常方便。如果使用传统的方式，则要相对累赘一些，但是不管如何，两者都可以实现相同的目的。</p>
 <pre><code class="R">#传统
 iris5&lt;-iris[iris$Sepal.Length&gt;5,c(&quot;Petal.Width&quot;,&quot;Species&quot;)]#筛选Iris的花萼长度大于5的，且列为Petal.Width和Species。
 

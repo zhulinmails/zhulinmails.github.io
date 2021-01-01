@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.gitee.io/"/>
-  <updated>2021-01-01T14:39:04.166Z</updated>
+  <updated>2021-01-01T14:40:57.377Z</updated>
   <id>http://zhulinmails.gitee.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zhulinmails.gitee.io/2021/01/01/R%E6%96%B0%E5%BB%BA%E5%8F%98%E9%87%8F%E6%93%8D%E4%BD%9C/"/>
     <id>http://zhulinmails.gitee.io/2021/01/01/R%E6%96%B0%E5%BB%BA%E5%8F%98%E9%87%8F%E6%93%8D%E4%BD%9C/</id>
     <published>2021-01-01T14:02:35.000Z</published>
-    <updated>2021-01-01T14:39:04.166Z</updated>
+    <updated>2021-01-01T14:40:57.377Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;基于Tidyverse包的操作&lt;br&gt;新建变量加上原来的，mutate&lt;br&gt;筛选变量，select&lt;br&gt;新建变量不加上原来的，transmute&lt;br&gt;%/% integer division，整除&lt;br&gt;
+          &lt;p&gt;基于Tidyverse包的操作&lt;br&gt;新建变量加上原来的，mutate&lt;br&gt;筛选变量，select&lt;br&gt;新建变量不加上原来的，transmute&lt;br&gt;%/% integer division，整除&lt;br&gt; %
         
       
     
