@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhulinmails.gitee.io/"/>
-  <updated>2021-01-01T14:42:59.926Z</updated>
+  <updated>2021-01-05T02:31:49.159Z</updated>
   <id>http://zhulinmails.gitee.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019-2020年CSSCI和CSCD目录</title>
+    <link href="http://zhulinmails.gitee.io/2021/01/05/2020%E5%B9%B4CSSCI%E5%92%8CCSCD%E7%9B%AE%E5%BD%95/"/>
+    <id>http://zhulinmails.gitee.io/2021/01/05/2020%E5%B9%B4CSSCI%E5%92%8CCSCD%E7%9B%AE%E5%BD%95/</id>
+    <published>2021-01-05T02:25:52.000Z</published>
+    <updated>2021-01-05T02:31:49.159Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;南京大学·中国社会科学研究评价中心&lt;/p&gt;
+&lt;h2 id=&quot;中文社会科学引文索引CSSCI-2019-2020-收录来源期刊目录&quot;&gt;&lt;a href=&quot;#中文社会科学引文索引CSSCI-2019-2020-收录来源期刊目录&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="团队建设" scheme="http://zhulinmails.gitee.io/categories/%E5%9B%A2%E9%98%9F%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+      <category term="论文发表" scheme="http://zhulinmails.gitee.io/tags/%E8%AE%BA%E6%96%87%E5%8F%91%E8%A1%A8/"/>
+    
+      <category term="期刊目录" scheme="http://zhulinmails.gitee.io/tags/%E6%9C%9F%E5%88%8A%E7%9B%AE%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>R新建变量操作</title>
@@ -589,34 +619,6 @@
       <category term="公众号" scheme="http://zhulinmails.gitee.io/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
     
       <category term="清净" scheme="http://zhulinmails.gitee.io/tags/%E6%B8%85%E5%87%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>netcore网站建设</title>
-    <link href="http://zhulinmails.gitee.io/2020/08/29/netcore%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
-    <id>http://zhulinmails.gitee.io/2020/08/29/netcore%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/</id>
-    <published>2020-08-29T08:32:23.000Z</published>
-    <updated>2020-08-29T03:39:22.484Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;最近根据微软官方教材，学习了如何创建使用数据的 ASP.NET Core Web 应用。具体步骤如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://gitee.com/zhulinmails/git-images/raw/master//image1.png&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="微软" scheme="http://zhulinmails.gitee.io/categories/%E5%BE%AE%E8%BD%AF/"/>
-    
-    
-      <category term=".NET Core，网站" scheme="http://zhulinmails.gitee.io/tags/NET-Core%EF%BC%8C%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
